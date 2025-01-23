@@ -20,7 +20,7 @@
   },
   "peerDependencies": {
     "react": "^0.14.0 || ^16.0.0 || ^18.2.0",
-    "spectacle": "^5.3.0"
+    "spectacle": "^10.1.8"
   },
   "devDependencies": {
     "babel-cli": "^6.11.4",
